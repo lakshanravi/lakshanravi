@@ -5,38 +5,31 @@
 
 
 ###
-
-<h2 align="left">Hi 👋! My name is Ravindu Lakshan, and I'm a Software Engineer from Colombo, Sri Lanka.</h2>
-
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 <div align="left">
- <div style="height: 30px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 100%;" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" height="30" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" height="30" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" height="30" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" height="30" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" height="30" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" height="30" alt="Docker" />
+  <img src="https://img.icons8.com/fluency/48/000000/express-js.png" height="30" alt="Express" />
+  <img src="https://img.icons8.com/color/48/000000/figma.png" height="30" alt="Figma" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" height="30" alt="Git" />
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" height="30" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="30" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" height="30" alt="Kubernetes" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="30" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="30" alt="MySQL" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/next-js.png" height="30" alt="Next.js" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="30" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" height="30" alt="PyCharm" />
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" height="30" alt="PyTorch" />
+  <img src="https://img.icons8.com/color/48/000000/selenium.png" height="30" alt="Selenium" />
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" height="30" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" height="30" alt="TensorFlow" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="30" alt="VS Code" />
 </div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="Selenium" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
-</div>
 
 ###
 
