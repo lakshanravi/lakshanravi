@@ -10,6 +10,11 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png" height="30" alt="React" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" height="30" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" height="30" alt="CSS3" />
+<img src="https://img.icons8.com/color/48/angularjs.png" height="30" alt="Angular" />
+<img src="https://img.icons8.com/color/48/typescript.png" height="30" alt="TypeScript" />
+<img src="https://img.icons8.com/color/48/webstorm.png" height="30" alt="WebStorm" />
+<img src="https://img.icons8.com/fluency/48/api-settings.png" height="30" alt="Apidog" />
+<img src="https://img.icons8.com/color/48/jira.png" height="30" alt="Jira" />
   <img src="https://img.icons8.com/color/48/000000/python.png" height="30" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" height="30" alt="Docker" />
   <img src="https://img.icons8.com/fluency/48/000000/express-js.png" height="30" alt="Express" />
