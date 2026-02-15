@@ -25,11 +25,13 @@
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" height="30" alt="Kubernetes" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="30" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="30" alt="MySQL" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/next-js.png" height="30" alt="Next.js" />
+<img src="https://img.icons8.com/fluency/48/nextjs.png" height="30" alt="Next.js" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="30" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" height="30" alt="PyCharm" />
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" height="30" alt="PyTorch" />
-  <img src="https://img.icons8.com/color/48/000000/selenium.png" height="30" alt="Selenium" />
+  <img src="https://img.icons8.com/color/48/pytorch.png" height="30" alt="PyTorch" />
+
+<img src="https://img.icons8.com/color/48/selenium-test-automation.png" height="30" alt="Selenium" />
+
   <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" height="30" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" height="30" alt="TensorFlow" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="30" alt="VS Code" />
